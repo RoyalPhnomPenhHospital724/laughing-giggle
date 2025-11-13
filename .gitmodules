@@ -1,0 +1,3 @@
+[submodule "vendor/SharpWxDump"]
+	path = vendor/SharpWxDump
+	url = https://github.com/AdminTest0/SharpWxDump.git
